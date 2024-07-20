@@ -4,7 +4,7 @@ public class BinarySearch {
         int target = 8;
         int ans = binarySearch(arr,target);
         if(ans == -1){
-            System.out.println("target not found");
+            System.out.println("target not found.");
         }else{
             System.out.println("Target found at index: " + ans);
         }
