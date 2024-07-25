@@ -1,4 +1,4 @@
-/*
+package searching;/*
 TIME COMPLEXITY
 BEST CASE - O(1) i.e if we find the target element at the 0th index
 WORST CASE - 0(n) i.e if we go through the array and don't find the target element
